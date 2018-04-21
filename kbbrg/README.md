@@ -1,4 +1,4 @@
 # keyborad brigde
 
-![エビフライトライアングル](./img/ebtr.jpg)
+![エビフライトライアングル](https://github.com/o2346/techniques/blob/develop/kbbrg/img/ebtr.jpeg?raw=true)
 
