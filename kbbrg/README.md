@@ -1,11 +1,13 @@
 # keyboard brigde
 
 ![overview](https://github.com/o2346/techniques/blob/develop/kbbrg/img/ebtr.jpeg?raw=true "sample img")
-![in use with palm rest](https://github.com/o2346/techniques/blob/develop/kbbrg/img/inuse.jpeg?raw=true "sample img")
+![in use](https://github.com/o2346/techniques/blob/develop/kbbrg/img/inuse.jpeg?raw=true "sample img")
 
 ||overview|
 |---|---|
-|||
+|version|1.0|
+|target pc|any laptop|
+|made of|wood|
 
 ## description
 
@@ -15,10 +17,10 @@ not only for keyboard but any other pointing devices
 ## what is this for
 
 I use macbook pro with hhkb & trackball in my work.  
-When a external keyboard was settled directly on a laptop computer(this is what they say sonshi-style), Some inconvenience found like
+When a external keyboard was settled directly on a laptop computer, Some inconvenience found like
 
 * unintentionally hit any key of laptop
-  * you may disable laptop keyboard, but it is not very butiful since some installation & configuration required
+  * you may disable laptop keyboard by some app, but it is not very beautiful since some installation & configuration required
   * I think this is not a software matter
 * I need external trackball on the same height with hhkb
   * I don't see any products wide enough to support trackball + hhkb width
@@ -29,8 +31,8 @@ then this thing is a solution
 ## disadvantage
 
 * less portability
- * though I don't need to take them outside so often
- * I have got macbook for that poupouse
+  * though I don't need to take them outside so often
+  * I have got macbook for that poupouse
 
 ## misc
 
@@ -43,8 +45,8 @@ just use like img shown above
 ## recipe
 
 1. buy a wooden board
-  * A board should be as flat as possible
+    * target should be as flat as possible
 1. build like img shown above
-  * Some DIY shop takes order to cut board as you like, ask them if needed
-  * then you may not need a saw, all you would need is nail & hammer
+    * Some DIY shop takes order to cut board as you like, ask them if needed
+    * then you may not need a saw, all you would need is nail & hammer
 
