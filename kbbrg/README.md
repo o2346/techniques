@@ -1,4 +1,4 @@
-# keyboard brigde
+# keyboard bridge
 
 ![overview](https://github.com/o2346/techniques/blob/develop/kbbrg/img/overview.jpg?raw=true "overview")
 ![in use](https://github.com/o2346/techniques/blob/develop/kbbrg/img/in_use.jpg?raw=true "in_use")
@@ -11,8 +11,8 @@
 
 ## description
 
-Home maded [keyboard brigde](https://www.google.com/search?q=keyboard+bridge&tbm=isch) to support [sonshi-style](https://www.google.com/search?q=%E5%B0%8A%E5%B8%AB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB&tbm=isch)  
-not only for keyboard but any other pointing devices
+Home maded [keyboard bridge](https://www.google.com/search?q=keyboard+bridge&tbm=isch) to support [sonshi-style](https://www.google.com/search?q=%E5%B0%8A%E5%B8%AB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB&tbm=isch)  
+not only for keyboard but slimblade trackball
 
 ## what is this for
 
