@@ -46,9 +46,9 @@ just use like img shown above
 
 1. buy a wooden board
     * target should be as flat as possible
-1. build like img shown above
     * Some DIY shop takes order to cut board as you like, ask them if needed
-    * then you may not need a saw, all you would need is nail & hammer
+    * then you may not need a saw, all you would need is nail & hammer in next step
+1. build like img shown above
 
 ## todo for later version
 
