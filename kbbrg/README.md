@@ -20,8 +20,8 @@ I use macbook pro with hhkb & trackball in my work.
 When a external keyboard was settled directly on a laptop computer, Some inconvenience found like
 
 * unintentionally hit any key of laptop
-  * you may disable laptop keyboard by some app, but it is not very beautiful since some installation & configuration required
-  * I think this is not a software matter
+  * you may disable laptop keyboard by some app to prevent that accident
+  * but that is not very beautiful since some installation & configuration required
 * I need external trackball on the same height with hhkb
   * I don't see any products wide enough to support trackball + hhkb width
 * computer and the device on it gets hot
