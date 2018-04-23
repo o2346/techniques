@@ -1,7 +1,7 @@
 # keyboard brigde
 
-![overview](https://github.com/o2346/techniques/blob/develop/kbbrg/img/ebtr.jpeg?raw=true "sample img")
-![in use](https://github.com/o2346/techniques/blob/develop/kbbrg/img/inuse.jpeg?raw=true "sample img")
+![overview](https://github.com/o2346/techniques/blob/develop/kbbrg/img/overview.jpg?raw=true "overview")
+![in use](https://github.com/o2346/techniques/blob/develop/kbbrg/img/in_use.jpg?raw=true "in_use")
 
 ||overview|
 |---|---|
@@ -49,4 +49,10 @@ just use like img shown above
 1. build like img shown above
     * Some DIY shop takes order to cut board as you like, ask them if needed
     * then you may not need a saw, all you would need is nail & hammer
+
+## todo for later version
+
+* thinner in enough rigidity
+  * steel may be required instead of wood
+* palm resting
 
