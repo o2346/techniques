@@ -32,7 +32,7 @@ then this thing is a solution
 
 * less portability
   * though I don't need to take them outside so often
-  * I have got macbook for that poupouse
+  * I have got macbook for that purpose
 
 ## misc
 
