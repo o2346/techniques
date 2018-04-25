@@ -6,7 +6,7 @@
 ||overview|
 |---|---|
 |version|1.0|
-|target pc|any laptop|
+|target pc|macbook/mbp|
 |made of|wood|
 
 ## description
